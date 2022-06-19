@@ -6,6 +6,9 @@
 //
 
 open class HarbrosLib {
+    public init() {
+        
+    }
     open func add(a: Int, b: Int) -> Int {
         return a + b
     }
